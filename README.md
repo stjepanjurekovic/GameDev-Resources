@@ -324,6 +324,7 @@ Meta
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
+* [Universal Scene Description in Action](https://www.manning.com/books/universal-scene-description-in-action)
 
 
 ### Game Jams
